@@ -1,0 +1,3 @@
+export const INPUTHANDLER = "INPUTHANDLER";
+export const SUMBITTEDTASK = "SUMBITTEDTASK";
+export const UPDATETASK = "UPDATETASK";
